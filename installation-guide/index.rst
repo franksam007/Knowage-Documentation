@@ -1,15 +1,19 @@
 Installation Manual
 ########################
 
-.. include:: ka_inst_intro.rst
-.. include:: ka_inst_prereq_tomcat.rst
-.. include:: ka_inst_relFiles.rst
-.. include:: ka_installer_CE.rst
-.. include:: ka_inst_man_tomcat.rst
-.. include:: ka_inst_R.rst
-.. include:: ka_inst_Python.rst
-.. include:: ka_inst_CAS.rst
-.. include:: ka_inst_advanced.rst
+.. toctree::
+   :caption: Table of Contents
+   
+   goal-of-the-document.rst	
+   requirements.rst	
+   software-release.rst
+   manual-installation.rst
+   upgrade.rst
+   knowage-ce-installer.rst	
+   r-installation.rst	
+   python-installation.rst	
+   cas-installation.rst	
+   advanced-configuration.rst
 
 .. |image0| image:: media/image1.png
    :width: 5.0075in
